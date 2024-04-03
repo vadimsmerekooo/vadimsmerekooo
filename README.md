@@ -7,6 +7,14 @@
   
 - 🌍 I speak Russian (native), English (A2)
 
+
+___
+
+### Connect with me:
+<p align="left">
+<a href="https://t.me/smerekooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://vk.com/lovebonsticks" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
+</p>
 ____
 
 ### Stack:
@@ -64,14 +72,6 @@ ___
 <img src="https://miro.medium.com/v2/1*-hkzF9m5828c-UIaSQNUug.jpeg" alt="Managment Studio" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkCYNWaWUYxiETkylFppk3qXATJMZJhDb3hDrbFF4ZIA&s" alt="Git Kraken" width="40" height="40"/>
-</p>
-
-___
-
-### Connect with me:
-<p align="left">
-<a href="https://t.me/smerekooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
-<a href="https://vk.com/lovebonsticks" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
 </p>
 
 ___
